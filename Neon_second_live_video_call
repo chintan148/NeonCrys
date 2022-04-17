@@ -1,7 +1,7 @@
 {
 "data":{
      "Google_Banner":" ",
-   "Google_Intertitial":"ca-app-pub-7939431288047697/4912569267",
+     "Google_Intertitial":"ca-app-pub-7939431288047697/4912569267",
    "Google_Native":"ca-app-pub-7939431288047697/2432873441",
     "Google_Native_Banner":"ca-app-pub-7939431288047697/2432873441",
     "Google_Open":" ",
@@ -14,8 +14,8 @@
     "FB_Intertitial_4":"703258007471422_703261414137748",
     "FB_Intertitial_5":"703258007471422_703261414137748",
     "FB_Intertitial_exit":"703258007471422_703261414137748",
-     "Facebook_Int_exit1":"703258007471422_703261414137748",
-     "Facebook_Int_exit2":"703258007471422_703261414137748",
+    "Facebook_Int_exit1":"703258007471422_703261414137748",
+    "Facebook_Int_exit2":"703258007471422_703261414137748",
    "FB_Native":"703258007471422_703261717471051",
    "FB_Native_Banner":"703258007471422_705507363913153",
    "onback":"1"
